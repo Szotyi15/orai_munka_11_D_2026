@@ -1,0 +1,55 @@
+# cimsor 1
+## cimsor 2
+
+
+## Felsorolások
+
+### Számnoztatlan
+
+- ez egy
+- számozatlan
+- felsorolás
+
+
+### szármozott
+
+1. ez már
+2. szármozott
+3. felsorolás
+
+
+### Automatikus számozás
+
+1. itt most
+1. automatikusan
+1. adja meg a számokat
+
+
+## példakód
+
+### Soron beluli
+
+A `<br>` a sortorés jeloli
+
+### kodblokk
+
+
+```CSS
+body{
+    backgorund:red;
+}
+```
+
+## Kiemelés
+
+*Ez a szoveg dolt*, **amig ez peddig felkover**
+
+
+
+ 
+### Táblázat
+
+| A   | B       |  C        |
+|----:|:-------:|---------:|
+|Nagy |Lajos    |fós      |
+|Kis  |Annamária|sportoló   |
